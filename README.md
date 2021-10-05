@@ -1,10 +1,14 @@
-# Project Name
+<img src="image/Lake & tree.jpg" width="400">
+
+# Rock Paper Scissors in Python
 
 TODO: Write a project description
 
 ## Installation
 
 TODO: Describe the installation process
+Just clone and work away!
+This project is built with python; you may need to update your local installation(s) here:
 
 ## Usage
 
@@ -24,8 +28,7 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
-
+TODO: Write credits --> List yourself, team members, anywhere you're getting references (code, visual references, etc)
 ## License
 
 TODO: Write license
