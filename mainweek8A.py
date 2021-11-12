@@ -55,7 +55,7 @@ while player is False:
         print("you lost! would you like to play again?")
         choice = input(" Y / N? ")
    
-        if choice == "N":
+        if choice == 'n':
             print("better luck next time!")
             exit()
         else:
